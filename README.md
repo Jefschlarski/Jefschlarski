@@ -1,5 +1,5 @@
 # Jef.Dev
-
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/jeferson-schlarski-422b3818a">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,7 +9,7 @@
 <a target="_blank" href="mailto:jefscharski@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</div>
 Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
 
 - :bulb:Atualmente estou me aprofundando em React, Node e TypeScript!!
