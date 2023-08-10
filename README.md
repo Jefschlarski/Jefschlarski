@@ -18,11 +18,12 @@ Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho
 - :house:Estou migrando de carreira, da construção civil para a tecnologia!!
 - :alien:Pretendo ingressar no curso de Engenharia de Software após me formar em ads esse final de ano!
 
-## Algumas tecnologias das quais tenho conhecimento
+## SKILLS
 <div>
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> 
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" /> 
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="CSS Icon" />
 </div>
