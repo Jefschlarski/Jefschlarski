@@ -14,7 +14,7 @@
 <br>
 Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
 
-- :bulb:Atualmente estou me aprofundando em React, Node e TypeScript!!
+- :bulb:Em constante evolução 🚀
 - :house:Estou migrando de carreira, da construção civil para a tecnologia!!
 - :alien:Pretendo ingressar no curso de Engenharia de Software após me formar em ads esse final de ano!
 
@@ -25,10 +25,10 @@ Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SASS Icon" /> 
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="BOOTSTRAP Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="ReactJS Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NODE Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript Icon" /> 
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="ReactJS Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript Icon" /> 
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NODE Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="GIT Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="DOCKER Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="LARAVEL Icon" />
