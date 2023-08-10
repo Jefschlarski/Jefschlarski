@@ -23,7 +23,8 @@ Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> 
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" /> 
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="CSS Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SASS Icon" /> 
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="BOOTSTRAP Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="GIT Icon" />
 </div>
