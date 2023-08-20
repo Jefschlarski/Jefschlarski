@@ -12,7 +12,7 @@
 </div>
 <br>
 <br>
-Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor front-end. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
+Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor full-stack. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
 
 - :bulb:Em constante evolução 🚀
 - :house:Estou migrando de carreira, da construção civil para a tecnologia!!
