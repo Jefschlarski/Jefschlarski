@@ -17,7 +17,7 @@ Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor full-stack. Eu tenh
 - :bulb:Em constante evolução 🚀
 - :house:Estou migrando de carreira, da construção civil para a tecnologia!!
 - :alien:Mergulhando fundo em Flutter!
-[![Seu Nome](https://github-readme-stats.vercel.app/api?username=Jefschlarski)](https://github.com/anuraghazra/github-readme-stats)
+
 ## SKILLS
 <div>
 
