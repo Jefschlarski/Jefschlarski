@@ -36,3 +36,4 @@ Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor full-stack. Eu tenh
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="POSTGREE Icon" />
 </div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefschlarski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
