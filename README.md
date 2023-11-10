@@ -12,10 +12,10 @@
 </div>
 <br>
 <br>
-Olá, eu me chamo Jeferson, estudante de ads e desenvolvedor full-stack. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
+Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
 
 - :bulb:Em constante evolução 🚀
-- :house:Estou migrando de carreira, da construção civil para a tecnologia!!
+- :house:Sistemas distribuídos e comunicação entre serviço com gRPC, KAFKA e Python!!
 - :alien:Mergulhando fundo em Flutter!
 
 ## SKILLS
