@@ -35,4 +35,6 @@ Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 a
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="LARAVEL Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="POSTGREE Icon" />
-</div>
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Icon" />
+
