@@ -29,6 +29,7 @@ Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 a
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="ReactJS Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript Icon" /> 
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NODE Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="Nest Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Futter Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="GIT Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="DOCKER Icon" />
@@ -37,4 +38,5 @@ Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 a
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="POSTGREE Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Icon" />
-
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Mongo Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS Icon" />
