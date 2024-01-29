@@ -30,11 +30,12 @@ Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 a
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript Icon" /> 
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NODE Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="Nest Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP Icon" />
+<img width="75px" src="https://github.com/Jefschlarski/Jefschlarski/blob/main/YII3-Dark.svg" alt="Yii Icon" />
+<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="LARAVEL Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Futter Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="GIT Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="DOCKER Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="LARAVEL Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="POSTGREE Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Icon" />
