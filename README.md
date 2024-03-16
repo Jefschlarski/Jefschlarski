@@ -38,7 +38,6 @@ Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 a
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="DOCKER Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="POSTGREE Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" />
-<img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Mongo Icon" />
 <img width="75px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS Icon" />
