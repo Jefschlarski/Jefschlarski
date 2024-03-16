@@ -15,8 +15,6 @@
 Olá, eu me chamo Jeferson, desenvolvedor full-stack web e mobile. Eu tenho 23 anos e um pouco mais de 3 anos de codigos. :purple_heart:Apaixonado por tecnologia, :wrench:engenharia, :musical_note:musica e :cinema:cinema.
 
 - :bulb:Em constante evolução 🚀
-- :house:Sistemas distribuídos e comunicação entre serviço com gRPC, KAFKA e Python!!
-- :alien:Mergulhando fundo em Flutter!
 
 ## SKILLS
 <div>
